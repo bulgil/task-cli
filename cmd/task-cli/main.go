@@ -5,8 +5,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/bulgil/goprojects/task-cli/internal/routes"
-	"github.com/bulgil/goprojects/task-cli/internal/storage"
+	"github.com/bulgil/task-cli/internal/routes"
+	"github.com/bulgil/task-cli/internal/storage"
 )
 
 func main() {

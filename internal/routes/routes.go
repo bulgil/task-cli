@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/bulgil/goprojects/task-cli/internal/storage"
+	"github.com/bulgil/task-cli/internal/storage"
 )
 
 const (
